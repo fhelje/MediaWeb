@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaWeb.FileMover", "MediaWeb.FileMover\MediaWeb.FileMover.csproj", "{8DAAB7B5-43FE-4EB5-AFAB-82E2E322B36F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Documentation", "_Documentation", "{D1A721F9-A49F-4CA9-8EFE-BB41CF7C1463}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheTVDb", "TheTVDb", "{63785D9A-BE07-4247-9650-FFE841D956F7}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\TheTVDb\actors.xml = Documentation\TheTVDb\actors.xml
+		Documentation\TheTVDb\banners.xml = Documentation\TheTVDb\banners.xml
+		Documentation\TheTVDb\en.xml = Documentation\TheTVDb\en.xml
+		episode.json = episode.json
+		Documentation\TheTVDb\series.js = Documentation\TheTVDb\series.js
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaWeb.TheTVDb", "MediaWeb.TheTVDb\MediaWeb.TheTVDb.csproj", "{68799BA7-4FB7-4E70-850D-CA4918FF2641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaWeb.Api", "MediaWeb.Api\MediaWeb.Api.csproj", "{5DE53AE0-D439-492F-8A8C-7B814A3184E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Import", "Import", "{FDA60240-19EA-415D-8BE9-22AA25748145}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metadata", "Metadata", "{8231006A-A9F5-4EB7-B1AB-F7DDE0836149}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{FCE57B71-E67A-4F31-A899-76DDD96D22CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{74E70F0C-CD23-4E48-95E4-A936B2FC48C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaWeb.FileReciever", "MediaWeb.FileReciever\MediaWeb.FileReciever.csproj", "{626BE9B2-D9EA-4319-942B-8F761113246A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaWeb.SubTitles", "MediaWeb.SubTitles\MediaWeb.SubTitles.csproj", "{FB2FF78A-0671-4DB5-A193-86ED2B403F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaWeb.TheMovieDb", "MediaWeb.TheMovieDb\MediaWeb.TheMovieDb.csproj", "{24C014A6-1EC1-4F5C-AD2E-9501BF7BF4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaWeb.Import.Messages", "MediaWeb.Import.Messages\MediaWeb.Import.Messages.csproj", "{157D069D-3941-42BC-B162-B547FF5C46CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DAAB7B5-43FE-4EB5-AFAB-82E2E322B36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAAB7B5-43FE-4EB5-AFAB-82E2E322B36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAAB7B5-43FE-4EB5-AFAB-82E2E322B36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAAB7B5-43FE-4EB5-AFAB-82E2E322B36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68799BA7-4FB7-4E70-850D-CA4918FF2641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68799BA7-4FB7-4E70-850D-CA4918FF2641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68799BA7-4FB7-4E70-850D-CA4918FF2641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68799BA7-4FB7-4E70-850D-CA4918FF2641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE53AE0-D439-492F-8A8C-7B814A3184E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE53AE0-D439-492F-8A8C-7B814A3184E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE53AE0-D439-492F-8A8C-7B814A3184E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE53AE0-D439-492F-8A8C-7B814A3184E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626BE9B2-D9EA-4319-942B-8F761113246A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626BE9B2-D9EA-4319-942B-8F761113246A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626BE9B2-D9EA-4319-942B-8F761113246A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626BE9B2-D9EA-4319-942B-8F761113246A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2FF78A-0671-4DB5-A193-86ED2B403F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2FF78A-0671-4DB5-A193-86ED2B403F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2FF78A-0671-4DB5-A193-86ED2B403F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2FF78A-0671-4DB5-A193-86ED2B403F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C014A6-1EC1-4F5C-AD2E-9501BF7BF4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C014A6-1EC1-4F5C-AD2E-9501BF7BF4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C014A6-1EC1-4F5C-AD2E-9501BF7BF4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C014A6-1EC1-4F5C-AD2E-9501BF7BF4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157D069D-3941-42BC-B162-B547FF5C46CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157D069D-3941-42BC-B162-B547FF5C46CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157D069D-3941-42BC-B162-B547FF5C46CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157D069D-3941-42BC-B162-B547FF5C46CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63785D9A-BE07-4247-9650-FFE841D956F7} = {D1A721F9-A49F-4CA9-8EFE-BB41CF7C1463}
+		{8DAAB7B5-43FE-4EB5-AFAB-82E2E322B36F} = {FDA60240-19EA-415D-8BE9-22AA25748145}
+		{626BE9B2-D9EA-4319-942B-8F761113246A} = {FDA60240-19EA-415D-8BE9-22AA25748145}
+		{157D069D-3941-42BC-B162-B547FF5C46CB} = {FDA60240-19EA-415D-8BE9-22AA25748145}
+		{68799BA7-4FB7-4E70-850D-CA4918FF2641} = {8231006A-A9F5-4EB7-B1AB-F7DDE0836149}
+		{FB2FF78A-0671-4DB5-A193-86ED2B403F38} = {8231006A-A9F5-4EB7-B1AB-F7DDE0836149}
+		{24C014A6-1EC1-4F5C-AD2E-9501BF7BF4D2} = {8231006A-A9F5-4EB7-B1AB-F7DDE0836149}
+		{5DE53AE0-D439-492F-8A8C-7B814A3184E0} = {FCE57B71-E67A-4F31-A899-76DDD96D22CD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>293326</id>
+  <Image>actors/293326.jpg</Image>
+  <Name>Kerry Washington</Name>
+  <Role>Olivia Pope</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>293328</id>
+  <Image>actors/293328.jpg</Image>
+  <Name>Columbus Short</Name>
+  <Role>Harrison Wright</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>293329</id>
+  <Image>actors/293329.jpg</Image>
+  <Name>Guillermo Diaz</Name>
+  <Role>Huck</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>299803</id>
+  <Image>actors/299803.jpg</Image>
+  <Name>Kate Burton</Name>
+  <Role>Vice President Sally Langston</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293331</id>
+  <Image>actors/293331.jpg</Image>
+  <Name>Tony Goldwyn</Name>
+  <Role>President Fitzgerald Grant</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293330</id>
+  <Image>actors/293330.jpg</Image>
+  <Name>Jeff Perry</Name>
+  <Role>Cyrus Beene</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293327</id>
+  <Image>actors/293327.jpg</Image>
+  <Name>Katie Lowes</Name>
+  <Role>Quinn Perkins</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293325</id>
+  <Image>actors/293325.jpg</Image>
+  <Name>Darby Stanchfield</Name>
+  <Role>Abby Whelan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>293324</id>
+  <Image>actors/293324.jpg</Image>
+  <Name>Henry Ian Cusick</Name>
+  <Role>Stephen Finch</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>307300</id>
+  <Image></Image>
+  <Name>Bellamy Young</Name>
+  <Role>First Lady Mellie Grant</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>307299</id>
+  <Image></Image>
+  <Name>Joshua Malina</Name>
+  <Role>David Rosen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

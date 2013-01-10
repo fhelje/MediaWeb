@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>248841</id>
+  <Actors>|Kerry Washington|Columbus Short|Guillermo Diaz|Kate Burton|Tony Goldwyn|Jeff Perry|Katie Lowes|Darby Stanchfield|Henry Ian Cusick|Bellamy Young|Joshua Malina|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+  <Airs_Time>10 PM</Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2012-04-05</FirstAired>
+  <Genre>|Drama|</Genre>
+  <IMDB_ID>tt1837576</IMDB_ID>
+  <Language>en</Language>
+  <Network>ABC</Network>
+  <NetworkID></NetworkID>
+  <Overview>A former media relations consultant to the President, Olivia Pope (Kerry Washington) dedicates her life to protecting and defending the public images of our nation's elite. After leaving the White House, the power consultant opened her own firm, hoping to start a new chapter -- both professionally and personally -- but she can't seem to completely cut ties with her past. Slowly it becomes apparent that her staff, who specialize in fixing the lives of other people, can't quite fix the ones closest at hand -- their own.</Overview>
+  <Rating>9.0</Rating>
+  <RatingCount>6</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>81035</SeriesID>
+  <SeriesName>Scandal (2012)</SeriesName>
+  <Status>Continuing</Status>
+  <added>2011-05-18 01:13:02</added>
+  <addedBy>189361</addedBy>
+  <banner>graphical/248841-g2.jpg</banner>
+  <fanart>fanart/original/248841-1.jpg</fanart>
+  <lastupdated>1357723708</lastupdated>
+  <poster>posters/248841-2.jpg</poster>
+  <zap2it_id>SH01419535</zap2it_id>
+</Series>
+<Episode>
+  <id>4342324</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Scripting Scandal</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1339437890</lastupdated>
+  <seasonid>466183</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4342325</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Gladiators in Suits: Casting a Series</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1339437913</lastupdated>
+  <seasonid>466183</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4342322</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Scandal: Setting the Pace</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1339437839</lastupdated>
+  <seasonid>466183</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4103866</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul McGuigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sweet baby</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-04-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Olivia hires Quinn Perkins; On Quinn Perkins' first day, she is given the task of of dealing with a woman's accusation against the President of the United States. Meanwhile, Pope &amp; Associates must prove a decorated war veteran innocent of murder.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Shonda Rhimes</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/248841/4103866.jpg</filename>
+  <lastupdated>1357345234</lastupdated>
+  <seasonid>466432</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4239671</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Roxann Dawson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dirty Little Secrets</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-04-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Olivia and her team must keep a DC madam's client list under wraps when she comes under investigation, leading to the firm protecting many of DC's most influential. Meanwhile, Quinn must continue to deal with the President's former intern.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Heather Mitchell</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/248841/4239671.jpg</filename>
+  <lastupdated>1357345264</lastupdated>
+  <seasonid>466432</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4239672</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Allison Liddi-Brown</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hell Hath No Fury</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When a millionaire's son is accused of rape, Pope &amp; Associates take the case and find it difficult to change public perception. Olivia must also deal with Amanda Tanner's first request as a client: a meeting with the President.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Matt Byrne</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/248841/4239672.jpg</filename>
+  <lastupdated>1357345284</lastupdated>
+  <seasonid>466432</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4278851</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Katleman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Enemy of the State</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-04-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After the Amanda Tanner case takes a shocking turn, one-time friends Olivia and Cyrus take heated, opposing viewpoints, and Cyrus tries to help in investigating the personal lives of Olivia and her associates. Meanwhile Olivia and her team help a dictator locate his wife and children who have been allegedly kidnapped, and Quinn goes out with a reporter seeking information.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Richard E. Robbins</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/248841/4278851.jpg</filename>
+  <lastupdated>1357345325</lastupdated>
+  <seasonid>466432</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4278852</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Robin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Crash and Burn</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-05-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After a commercial plane crashes, taking the lives of all onboard, Olivia Pope and her &quot;gladiators-in-suits&quot; must defend the pilot from media and airline accusations; meanwhile, when Amanda Tanner goes missing, Huck calls upon his dark past to find her whereabouts, and Fitz seeks the help of the Vice President in order to pass key legislation despite their icy relationship.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Mark Wilding</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/248841/4278852.jpg</filename>
+  <lastupdated>1357345488</lastupdated>
+  <seasonid>466432</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4278853</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tom Verica</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Trail</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-05-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As Gideon investigates Amanda Tanner's past, a series of events from the past reveal the contentious primary race between Fitzgerald Grant and Sally Langston, Olivia's first meeting with Grant on the campaign trail and the formation of the Pope &amp; Associates team.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jenna Bans</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/248841/4278853.jpg</filename>
+  <lastupdated>1357345503</lastupdated>
+  <seasonid>466432</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4278854</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Roxann Dawson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Grant: For the People</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2012-05-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2353107</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Quinn finds herself in a tragic and compromising position, Olivia and the team rush to her side; all the while, a reluctant Cyrus must turn to Olivia when Billy Chambers makes an announcement that shakes Fitz's presidency to its core.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Shonda Rhimes</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/248841/4278854.jpg</filename>
+  <lastupdated>1357345525</lastupdated>
+  <seasonid>466432</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4366679</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tom Verica</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>White Hats Off</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-09-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301136</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the Season 2 opener, Quinn's true identity is disclosed to the team. Meanwhile, Mellie and Cyrus make a live TV interview awkward for Fitz; and a senator fears a personal matter is about to become public knowledge, so he wants Olivia's assistance.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jenna Bans</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/248841/4366679.jpg</filename>
+  <lastupdated>1357681594</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4398147</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Cragg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Other Woman</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-10-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2341954</IMDB_ID>
+  <Language>en</Language>
+  <Overview>An act of infidelity gets a public figure in trouble. Meanwhile, Cyrus and Fitz face a foreign-policy crisis; Olivia continues to deal with the consequences of a shocking judicial verdict; and Abby has lingering questions.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Heather Mitchell</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/248841/4398147.jpg</filename>
+  <lastupdated>1357681655</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4400896</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ron Underwood</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hunting Season</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-10-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2416248</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A paranoid government official drops a bombshell on Pope &amp; Associates and even Olivia is caught off-guard with how high up this Scandal goes. Back at the office, unresolved questions about Quinn's background create tension amongst the associates. Meanwhile, despite Cyrus' best efforts to keep a lovesick President under control, things still manage to heat up between Fitz and Olivia when Olivia's old flame returns.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Matt Byrne</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/248841/4400896.jpg</filename>
+  <lastupdated>1357681680</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4400897</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Tinker</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Beltway Unbuckled</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-10-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2389050</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A DC college student goes missing and her grieving parents come to Pope &amp; Associates for help. Meanwhile David is still investigating the Cytron case and gets help from a very surprising source; and in the White House, Fitz feels the pressure as Mellie proves once again that she's a political powerhouse. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Shonda Rhimes</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/248841/4400897.jpg</filename>
+  <lastupdated>1357681702</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4400898</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Robin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>All Roads Lead to Fitz</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-11-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the wife of a governor is raped, the governor takes the law into his own hands and then asks Olivia and her team to come in and clean up his mess. Meanwhile, both Cyrus and the President are caught off-guard when Cyrus' husband, James, decides to return to his career as a journalist covering the White House.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Raamla Mohamed</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/248841/4400898.jpg</filename>
+  <lastupdated>1357681713</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4423929</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bethany Rooney</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Spies Like Us</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-11-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Olivia receives an anonymous letter containing a coded warning which could expose Huck's dark past. Meanwhile another Pope &amp; Associates secret has already been exposed and Olivia asks Harrison to step up and handle it. And in the White House, Cyrus and Fitz are dealing with the ramifications of Cyrus' husband's first front page news story.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Chris Van Dusen</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/248841/4423929.jpg</filename>
+  <lastupdated>1357681723</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4423930</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tom Verica</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Defiance</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2012-11-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Harrison leads the team in managing a billionaire businessman who seems to have lost his sanity; meanwhile, Olivia and the White House prepare to celebrate the President's 50th birthday, as James continues to investigate Cytron and discovers something that could change the fate of the country.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Peter Noah</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/248841/4423930.jpg</filename>
+  <lastupdated>1357681733</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4441690</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Oliver Bokelberg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Happy Birthday, Mr. President</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2012-12-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A national tragedy forces Olivia to return to work at the White House. Meanwhile, we learn more about the first few days of Fitz's presidency.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Shonda Rhimes</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/248841/4441690.jpg</filename>
+  <lastupdated>1357681743</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4441691</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jessica Yu</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Blown Away</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2012-12-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>While working in the White House, Olivia helps Vice President Sally Langston; Cyrus stumbles across the truth about James's secret investigation; and one of Olivia's associates struggles to come to terms with a shocking betrayal.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mark Wilding</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/248841/4441691.jpg</filename>
+  <lastupdated>1357681755</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444197</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Robin</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>One for the Dog</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2013-01-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Heather Mitchell</Writer>
+  <absolute_number>17</absolute_number>
+  <filename></filename>
+  <lastupdated>1357345816</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444198</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Cragg</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Criminal, a Whore, an Idiot and a Liar</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2013-01-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mark Fish</Writer>
+  <absolute_number>18</absolute_number>
+  <filename></filename>
+  <lastupdated>1357345896</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444199</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2013-01-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1355927963</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444200</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2013-01-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1355927981</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444201</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044235</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444202</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044238</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444203</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044240</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444205</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044243</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444206</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044245</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444207</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044251</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444208</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044254</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444209</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044257</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+<Episode>
+  <id>4444210</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>season finale</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1354044266</lastupdated>
+  <seasonid>497182</seasonid>
+  <seriesid>248841</seriesid>
+</Episode>
+</Data>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FSWatcher</id>
+    <version>1.0.0</version>
+    <title>FSWatcher</title>
+    <authors>James Hammond</authors>
+    <owners>James Hammond</owners>
+    <projectUrl>http://195.66.94.245</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package for FSWatcher</description>
+    <summary>Package for FSWatcher</summary>
+    <tags>NHSBT</tags>
+    <references>
+      <reference file="FSWatcher.dll" />
+    </references>
+  </metadata>
+</package>
